@@ -1,0 +1,14 @@
+[spec]
+uuid = 4962f655-869c-4643-bf36-a2dfeb4538f2
+indice = hypergeo
+pathout = C:\Users\RomainM\Desktop\Cours\2020_td_revolutions\corpus\corpus_revolution_iramuteq_corpus_2\corpus_revolution_iramuteq_spec_1
+clnb = 43
+encoding = cp1252
+mineff = 10
+lem = 1
+time = 0h 0m 9s
+typeformes = 0
+ira = C:\Users\RomainM\Desktop\Cours\2020_td_revolutions\corpus\corpus_revolution_iramuteq_corpus_2\corpus_revolution_iramuteq_spec_1\Analyse.ira
+corpus = c38a9442-895b-4091-b650-cd42b9c47241
+type = spec
+name = corpus_revolution_iramuteq_spec_1
