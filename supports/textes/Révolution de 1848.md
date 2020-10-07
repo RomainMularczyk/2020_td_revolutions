@@ -12,11 +12,19 @@ Textes extraits de l'ouvrage de Maurizio <span style="font-variant: small-caps;"
 
 ---
 
-## Alphonse <span style="font-variant: small-caps;">de Lamartine</span>, *Mémoires*, 1863 :
+## Alphonse <span style="font-variant: small-caps;">de Lamartine</span> (1790-1869), *Mémoires*, 1863 :
 
 "Ces hommes étaient presque tous des vétérans de la République, formés à la discipline volontaire des sectes dans les sociétés secrètes des deux monarchies, aguerris à la lutte et même au martyre dans toutes les journées qui avaient ensanglanté Paris et contesté l'établissement du règne. Nul ne savait par qui ils étaient commandés. Leur chef invisible n'avait ni nom ni grade. C'était le souffle invisible de la révolution, l'esprit de secte, l'âme du peuple souffrant du présent, aspirant à faire éclore l'avenir, le fanatisme désintéressé et de sang-froid. [...] A ces hommes, se joignaient deux autres espèces de combattants qui se précipitent toujours d'eux-mêmes dans les mouvements tumultueux des séditions : les natures féroces que le sang allèche et que la mort réjouit, et les natures légères que le tourbillon attire et entraîne : les enfants de Paris."
 
 **Référence complète :** Alphonse <span style="font-variant: small-caps;">de Lamartine</span>, *Oeuvres complètes, publiées et inédites. Mémoires politiques*, tome XXXVIII, Paris, chez l'auteur, rue de la Ville-l'Evêque, 1863, p. 273-274.
+
+---
+
+## Daniel <span style="font-variant: small-caps;">Stern</span>, *Histoire de la révolution de 1848*, Journée du 24 Février 1848, 1850 :
+
+"Enfin, vers 3 heures, le trône incessamment foulé aux pieds par les insurgés, qui avaient tous voulu y monter à leur tour, est enlevé à bras et descendu par le grand escalier dans le vestibule du pavillon de l'Horloge. On prépare une marche triomphale. [...] Le fauteuil est porté sur les épaules de chaque ouvriers. [...] On traverse ainsi le jardin, la place de la Concorde et toute la ligne des boulevards. Une multitude, armée de piques au bout desquelles pendent des lambeaux de pourpre, de damas, de brocart, des habits de cour, des livrées, brandit des baïonnettes et des sabres auxquels sont enfourchés des quartiers de viande, de pain, de lard, des bouteilles vides enlevées aux cuisines et aux caves royales, s'avance en chantant *La Marseillaise*. A chaque barricade, elle fait halte et le trône, posé sur des assises de pavés, sert de tribune à quelque harangueur populaire. Enfin, parvenu à la Bastille, on le place au pied de la colonne de Juillet ; un long roulement de tambour se fait entendre ; on apporte quelques branches de bois sec que l'on dispose en bûcher ; on y met le feu : une flamme s'élève, claire et pétillante, qu'entoure aussitôt une ronde joyeuse."
+
+**Référence complète :** Daniel <span style="font-variant: small-caps;">Stern</span>, *Histoire de la révolution de 1848*, tome 1, Paris, Charpentier, 1862, p. 167 [1e éd. 1850].
 
 ---
 
