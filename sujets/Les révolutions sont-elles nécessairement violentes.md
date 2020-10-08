@@ -16,7 +16,7 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   Ancien Régime et la Révolution : il y a différentes visions de ce que peut être une société structurée autour du modèle de l'Etat-nation (cela suppose des choix politiques qui ont été à l'origine de la Révolution : inégalités, privilèges, exclusion de certains pans de la communauté politique, culturelle, économique, etc.)
   
-  * B - Les révolutions ont une part nécessairement politique et constitue bien souvent des épisodes historiques violents
+  * B - Les révolutions ont une part nécessairement politique et constituent bien souvent des épisodes historiques violents
   
   Révolution française s'est faite dans la violence : prise des armes des citoyens, conscription (dans un contexte de guerre également), mais également inscription dans les principes qui fondent cette nouvelle république, l'idée du droit de résister à l'oppression (y compris par la violence) dans la Constitution de l'an III
   
@@ -24,13 +24,19 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
 
 * **II - Néanmoins, cette violence de la situation n'implique pas nécessairement une violence en acte**
   
-  * A - La non-violence comme méthode révolutionnaire
+  * A - Les révolutions ne sont pas seulement faites de violences
+  
+  1848 : les appréciations et jugements dépendent du point de vue des acteurs qui relatent les faits, mais il apparaît, comme dans le cas de la constitution de la Commission du Luxembourg, que des rapports pacifiés existent également, parfois à la suite de journées violentes (début Mars 1848, à la suite de la fin du mois de Février 1848 qui a connu des épisodes violents)
+  
+  Organisation du mouvement ouvrier dans ce contexte est important : rassemblements fréquents des ouvriers en corporations pour élire des représentants pour la Commission du Luxembourg
+  
+  * B - La non-violence comme méthode révolutionnaire
   
   Décolonisation en Inde a pu se faire notamment autour du mouvement non-violent théorisé par Ghandi à partir des années 1920 comme un moyen de lutte politique
   
   Années 1960 et 1970 et la contre-culture américaine notamment : moment anti-militariste, pacifiste dans le contexte de la Guerre du Vietnam (on retrouve dans ce même contexte l'idée de désobéissance civile et de résistance passive prônée par Martin Luther King dans le cadre du mouvement des droits civiques des noirs américains)
   
-  * B - Les révolutions constituent, avant tout, un constat, une appréciation d'une situation et peuvent ainsi être avant tout des éléments discursifs et programmatiques
+  * C - Les révolutions constituent, avant tout, un constat, une appréciation d'une situation et peuvent ainsi être avant tout des éléments discursifs et programmatiques
   
   L'emballement médiatique autour de ce qui peut apparaître de prime abord comme neuf s'accompagne souvent d'une surenchère, voyant des "révolutions" à tout va : on peut simplement constater l'usage du mot qui forge des expressions comme "révolution numérique", "révolution sexuelle", "révolution culturelle", etc.
   
@@ -51,3 +57,5 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   On voit poindre une forme de contradiction entre les usages différenciés du terme qui, certes, initialement, renvoie davantage à l'astronomie qu'au politique car, les révolutions politiques ont constitué chaque fois des moments uniques de l'histoire, des événements, brutaux qui ont constitué des ruptures importantes (on revient là à l'expérience de Chateaubriand commentant "à chaud" ce dont il est témoin)
   
   Si on suit Marx, cette contradiction est pourtant motrice de l'histoire : les événements révolutionnaires se succèdent et ils font avancer l'évolution des société
+
+
