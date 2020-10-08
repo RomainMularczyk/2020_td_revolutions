@@ -34,6 +34,44 @@ Textes extraits de l'ouvrage de Maurizio <span style="font-variant: small-caps;"
 
 En conséquence, les soussignés demandent au gouvernement provisoire la création immédiate d'un ministère du Progrès. Ce ministère devra avoir pour mission de préaprer l'organisation du travail déjà promise et de réaliser toutes les légitimes aspirations du peuple. Cette pétition, propagée par un grand nombre de citoyens, se signe, dès à présent, au bureau de *La Patrie*, de *La Démocratie pacifique*, du *Courier français*, du *Commerce* et de *La Presse*."
 
+---
+
+## Louis <span style="font-variant: small-caps;">Blanc</span> (1811-1882), *Histoire de la Révolution de 1848*, 1870 :
+
+"Ma démission fut repoussée vivement et, comme j'insistais, on m'offrit la présidence d'une commission au sein de laquelle, en attendant l'Assemblée, les questions sociales seraient élaborées et discutées. Ainsi, au lieu d'un ministère ayant sous la main des bureaux, des agents, un budget, des ressorts administratifs, un pouvoir effectif, des moyens d'application, des ressources pour agir, on proposait... quoi ? L'ouverture d'une orageuse école où j'étais appelé à faire un cours sur la faim, devant le peuple affamé ! Ai-je besoin de dire avec quelle énergie je rejetai cette offre pleine de périls ? Alors, prenant la parole d'une voix émue, M. François Arago m'adjura de ne point persister dans un refus au fond duquel était le soulèvement de Paris. Il invoqua contre moi l'autorité de son âge. Il ébranla dans mon coeur toutes les puissances d'une ancienne et persévérante affection. Il se montra prêt à siéger dans la Commission, et à y siéger en qualité de vice-président. [...]
+
+Il fut arrêté immédiatement qu'une commission de gouvernement pour les travailleurs serait institué, qu'Albert en serait le vice-président et qu'elle siégerait au Luxembourg. On fit entrer la députation. Un ouvrier mécanicien, aux manières froides et fermes, au visage austère, s'avança tenant un papier à la main, et lut la pétition qui réclamait la création d'un ministère du Travail. Répondre, je ne le pouvais faire selon ma conscience, sans dévoiler la discussion qui venait d'avoir lieu et sans trahir mes collègues. Ce fut M. de Lamartine qui prit la parole. Pendant qu'il parlait, l'incertitude se peignait sur le visage des envoyés du peuple. Ils m'interrogèrent du regard et, comme s'ils eussent lu dans le mien ce qui se passait au fond de mon âme, ils se retirèrent en silence. Je rédigeai le décret suivant, que *Le Moniteur* publia le lendemain avec les signatures de tous les membres du gouvernement provisoire."
+
+**Référence complète :** Louis <span style="font-variant: small-caps;">Blanc</span>, *Histoire de la Révolution de 1848*, tome 1, Paris, Librairie internationale, 1870, p. 142-144.
+
+---
+
+## Arrêté du 28 Février 1848 pour l'institution de la Commission du gouvernement pour les travailleurs, 1848 :
+
+"Considérant que la révolution faite par le peuple doit être faite pour lui :
+
+Qu'il est temps de mettre un terme aux longues et iniques souffrances des travailleurs ;
+
+Que la question du travail est d'une importance suprême ;
+
+Qu'il n'en est pas de plus haute, de plus digne des préoccupations d'un gouvernement républicain ;
+
+Qu'il appartient surtout à la France d'étudier ardemment et de résoudre un problème posé aujourd'hui chez toutes les nations industrielles de l'Europe ;
+
+Qu'il faut aviser, sans le moindre retard, à garantir au peuple les fruits légitimes de son travail ;
+
+Le gouvernement provisoire de la République arrête :
+
+Une commission permanente, qui s'appellera Commission de gouvernement pour les travailleurs, va être nommée avec mission expresse et spéciale de s'occuper de leur sort.
+
+Pour montrer quelle importance le gouvernement provisoire attache à la solution de ce grand problème, il nomme président de la Commission de gouvernement pour les travailleurs un de ses membres, M. Louis Blanc, et pour vice-président un autre de ses membres, M. Albert, ouvrier.
+
+Des ouvriers seront appelés à faire partie de la Commission.
+
+Le siège de la Commission sera au palais du Luxembourg."
+
+**Référence complète :** "Arrêté du 28 Février 1848 pour l'institution de la Commission du gouvernement pour les travailleurs", *Bulletin des lois de la République française*, Xe série, premier semestre 1848, depuis le 24 Février jusqu'au 30 Juin, tome I, Paris, Imprimerie nationale, 1848, p. 22.
+
 
 
 
