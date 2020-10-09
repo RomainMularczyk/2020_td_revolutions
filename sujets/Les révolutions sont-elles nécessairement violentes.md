@@ -21,6 +21,8 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   Révolution française s'est faite dans la violence : prise des armes des citoyens, conscription (dans un contexte de guerre également), mais également inscription dans les principes qui fondent cette nouvelle république, l'idée du droit de résister à l'oppression (y compris par la violence) dans la Constitution de l'an III
   
   C'est le cas également des premières révolutions politiques de l'époque moderne (Etats-Unis et la guerre d'indépendance qui l'accompagne, les américains prennent les armes contre la couronne anglaise) et plus largement de toutes les révolutions qui vont émailler l'histoire du XIXe siècle en Europe autour de la construction des Etats-nations modernes (France, Italie, Allemagne)
+  
+  David Dufresne, "Un peuple qui se tient sage" : film sur les violences policières et le moment des "Gilets jaunes" en France, évoque la part des répressions qui coexiste presque nécessaire avec chaque moment révolutionnaire (le film pose d'ailleurs, à un bref moment, la question du caractère révolutionnaire ou non de l'épisoe des "Gilets jaunes" : la comparaison avec les épisodes de 1789-1975 ou de 1848 laisse clairement apparaître que le niveau de violence est bien plus bas durant l'épisode des "Gilets jaunes", les manifestants ne sont pas armés, par exemple, contrairement à 1789 et 1848 qui a vu le peuple en armes)
 
 * **II - Néanmoins, cette violence de la situation n'implique pas nécessairement une violence en acte**
   
@@ -61,5 +63,3 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   On voit poindre une forme de contradiction entre les usages différenciés du terme qui, certes, initialement, renvoie davantage à l'astronomie qu'au politique car, les révolutions politiques ont constitué chaque fois des moments uniques de l'histoire, des événements, brutaux qui ont constitué des ruptures importantes (on revient là à l'expérience de Chateaubriand commentant "à chaud" ce dont il est témoin)
   
   Si on suit Marx, cette contradiction est pourtant motrice de l'histoire : les événements révolutionnaires se succèdent et ils font avancer l'évolution des société
-
-
