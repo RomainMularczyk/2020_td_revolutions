@@ -30,6 +30,10 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   Organisation du mouvement ouvrier dans ce contexte est important : rassemblements fréquents des ouvriers en corporations pour élire des représentants pour la Commission du Luxembourg
   
+  Karl Marx : communisme concerne d'abord l'organisation du prolétariat comme force politique capable d'agir de façon concertée
+  
+  "A la Commission du Luxembourg, cette création des ouvriers de Paris, reste le mérite d'avoir révélé, du haut d'une tribune européenne, le secret de la révolution du XIXe siècle : l'émancipation du prolétariat." (K. Marx, Les luttes des classes en France (1848-1850), p. 35)
+  
   * B - La non-violence comme méthode révolutionnaire
   
   Décolonisation en Inde a pu se faire notamment autour du mouvement non-violent théorisé par Ghandi à partir des années 1920 comme un moyen de lutte politique

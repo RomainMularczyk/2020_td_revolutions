@@ -1,4 +1,4 @@
-# Révolution de 1848
+# La Révolution de 1848
 
 Textes extraits de l'ouvrage de Maurizio <span style="font-variant: small-caps;">Gribaudi</span> et Michèle <span style="font-variant: small-caps;">Riot-Sarcey</span>, *1848, la révolution oublée*, Paris, La découverte, 2009.
 
@@ -71,6 +71,38 @@ Des ouvriers seront appelés à faire partie de la Commission.
 Le siège de la Commission sera au palais du Luxembourg."
 
 **Référence complète :** "Arrêté du 28 Février 1848 pour l'institution de la Commission du gouvernement pour les travailleurs", *Bulletin des lois de la République française*, Xe série, premier semestre 1848, depuis le 24 Février jusqu'au 30 Juin, tome I, Paris, Imprimerie nationale, 1848, p. 22.
+
+---
+
+## Karl <span style="font-variant: small-caps;">Marx</span>, *Les luttes des classes en France (1848-1850)*, 1850 :
+
+"A la Commission du Luxembourg, cette création des ouvriers de Paris, reste le mérite d'avoir révélé, du haut d'une tribune européenne, le secret de la révolution du XIXe siècle : l'émancipation du prolétariat. *Le Moniteur* devint fou furieux lorsqu'il lui fallut officiellement répandre les "folles extravagances" qui, jusqu'alors, étaient enfouies dans les écrits apocryphes des socialistes et ne venaient que de temps en temps, pareilles à des légendes lointaines mi-terrifiantes, mi-ridicules, résonner aux oreilles de la bourgeoisie."
+
+**Référence complète :** Karl <span style="font-variant: small-caps;">Marx</span>, *Les luttes des classes en France (1848-1850)*, Paris, Gallimard, 1994 [1e éd. 1850], p. 23.
+
+---
+
+## Pétition des ouvriers fileurs de Lille, Sans date :
+
+"Citoyens représentants, la questions de l'organisation du travail, cette question formidable et qui semble la pierre d'achoppement de notre révolution, nous engage à vous adresser quelques observations qui ont été délibérées et adoptées par les nombreux ouvriers fileurs de la ville de Lille. Les ouvriers fileurs réclament : des salaires inégaux [au contraire de certains propositions favorables à l'égalisation totale des salaires] et déterminés suivant l'aptitude et le courage du travailleur ; un tarif qui soit clair, certain et donnant le prix du travail au kilogramme et au demi-kilogramme ; [...] Suivant le décret du gouvernement provisoire, nous demanderons que la durée du travail soit de onze heures, effectives."
+
+**Référence complète :** "Pétition des ouvriers fileurs de Lille", Sans date, Archives nationales, AN C 2232, cité par Maurizio Gribaudi et Michèle Riot-Sarcey, *1848, la révolution oublée*, Paris, La découverte, 2009, p. 102.
+
+---
+
+## Elias <span style="font-variant: small-caps;">Regnault</span>, *Histoire du gouvernement provisoire*, 1850 :
+
+"Le contrecoup de la révolution de Paris causait partout de profonds ébranlements. Vienne, le chef-lieu de l'immobilité politique, l'asile de l'absolutisme opiniâtre, Vienne accomplissait sa révolution. Le 13 et le 14 mars y avaient vu répéter les luttes et les triomphes de Paris. Combats de la population contre les troupes, barricades, insurrection générale, victoire, tout semblait s'être modelé sur les événements de Février. L'empereur seul restait debout, mais affaibli, contraint aux concessions et proclamant avec une feinte ardeur une Constitution nouvelle, la liberté de la presse, la création de la Garde nationale et la prochaine réunion d'une Assemblée nationale. Il sacrifiait Metternich, comme Louis-Philippe avait sacrifié M. Guizot, et le ministre, abandonnant cette capitale soulevée contre lui, semblait emporter dans sa fuite les vieux privilèges et les poudreuses coutumes dont il avait été si longtemps l'opiniâtre gardien.
+
+Quatre jours après, Berlin répondait à l'exemple : les 18, 19 et 20 mars, une lutte se poursuivait entre la bourgeoisie et les troupes royales. Partout l'insurrection est victorieuse ; le roi de Prusse fait les mêmes concessions que l'empereur d'Autriche, avec la même humilité et la même franchise.
+
+Le 20 mars, l'étincelle gagnait la Lombardie ; Milan, après des efforts héroïques, s'était affranchi de ses maîtres. Venise s'était soulevée avec la même ardeur et le même succès ; la République de saint Marc renaissait glorieuse.
+
+Au commencement d'avril, Parme et Modène chassaient leurs vice-rois, branches des familles impériales ; la Toscane recevait une Constitution de son prince effrayé ; Rome frémissante demandait la liberté, que le pape promettait dans de belles formules et retenait d'une main avare ; la Sicile secouait le joug des Bourbons et se proclamait indépendante ; enfin le roi de Sardaigne, Charles-Albert, se déclarait le défenseur de l'émancipation italienne, le protecteur de la Lombardie, et entreprenait résolument la guerre contre l'Autriche. Sur toute la surface du continent européen, l'enthousiasme des peuples apportait des forces nouvelles à l'esprit révolutionnaire."
+
+**Référence complète :** Elias <span style="font-variant: small-caps;">Regnault</span>,  *Histoire du gouvernement provisoire*, Paris, Victor Lecou, 1850, p. 241-244.
+
+
 
 
 
