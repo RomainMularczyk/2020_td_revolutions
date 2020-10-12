@@ -102,8 +102,10 @@ Au commencement d'avril, Parme et Modène chassaient leurs vice-rois, branches d
 
 **Référence complète :** Elias <span style="font-variant: small-caps;">Regnault</span>,  *Histoire du gouvernement provisoire*, Paris, Victor Lecou, 1850, p. 241-244.
 
+---
 
+## Pierre-Joseph <span style="font-variant: small-caps;">Proudhon</span>, *Les confessions d'un révolutionnaire, pour servir l'histoire de la révolution de février*, 1849 :
 
+"La révolution s'évaporait comme un alcool en vidange : bientôt il n'en resterait plus que le laissez-passer, une date ! Les corporations du Luxembourg et les clubs résolurent de revenir à la charge. [...] On avait élaboré au Luxembourg un ensemble de décrets. [...] On tenait en main le salut du peuple : le repousser, ou seulement l'ajourner, eût été un crime. Une manifestation fut organisée, pour le dimanche 16 avril, par les ouvriers des corporations : le prétexte était la nomination de quatorze officiers d'état-major. Après le rassemblement on devait aller à l'Hôtel de Ville présenter une pétition avec une offrance patriotique. "C'est à nous, hommes d'action et de dévouement, disaient les pétitionnaires, qu'il appartient de déclarer au gouvernement provisoire que le peuple veut la République démocratique ; que le peuple veut l'abolition de l'exploitation de l'homme par l'homme ; que le peuple veut l'organisation du travail par l'association." [...] Tandis que le Luxembourg sommait le pouvoir de s'occuper de l'organisation du travail par l'association, les clubs [...] se mettaient en permanence, nommaient un Comité de salut public et se préparaient, comme au 17 mars, à prendre la tête de la manifestation et à provoquer l'épuration du gouvernement provisoire."
 
-
-
+**Référence complète :** Pierre-Joseph <span style="font-variant: small-caps;">Proudhon</span>, *Oeuvres complètes*, tome VII, Slatkine, Paris/Genève, 1982, p. 130-131 [1e éd. 1849].

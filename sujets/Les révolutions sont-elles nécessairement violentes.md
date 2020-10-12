@@ -18,6 +18,8 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   * B - Les révolutions ont une part nécessairement politique et constituent bien souvent des épisodes historiques violents
   
+  H. Arendt : "les révolutions et les guerres sont inconcevables sans violence : ce simple fait suffit à les distinguer de tous les autres phénomènes politiques" (De la révolution, 1963)
+  
   Révolution française s'est faite dans la violence : prise des armes des citoyens, conscription (dans un contexte de guerre également), mais également inscription dans les principes qui fondent cette nouvelle république, l'idée du droit de résister à l'oppression (y compris par la violence) dans la Constitution de l'an III
   
   C'est le cas également des premières révolutions politiques de l'époque moderne (Etats-Unis et la guerre d'indépendance qui l'accompagne, les américains prennent les armes contre la couronne anglaise) et plus largement de toutes les révolutions qui vont émailler l'histoire du XIXe siècle en Europe autour de la construction des Etats-nations modernes (France, Italie, Allemagne)
