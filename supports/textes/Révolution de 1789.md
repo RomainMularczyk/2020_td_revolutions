@@ -9,3 +9,23 @@
 **Référence complète :** Alexis <span style="font-variant: small-caps;">de Tocqueville</span>, *L'Ancien Régime et la Révolution*, Paris, Gallimard, 1985, [1e éd. 1856], p. 60.
 
 ---
+
+## <span style="font-variant: small-caps;">Nicolas de Condorcet</span>, *Sur le sens du mot révolutionnaire*, 1793 :
+
+"De *révolution*, nous avons fait révolutionnaire ; et ce mot, dans son sens général, exprime tout ce qui appartient à une *révolution*.
+
+Mais on l'a créé pour la nôtre, pour celle qui, d'un des Etats soumis depuis plus longtemps au despotisme, a fait, en peu d'années, la seule république où la liberté ait jamais eu pour base une entière égalité des droits. Ainsi, le mot *révolutionnaire* ne s'applique qu'aux révolutions qui ont la liberté pour objet.
+
+On dit qu'un homme est révolutionnaire, c'est-à-dire, qu'il est attaché aux principes de la révolution, qu'il agit pour elle, qu'il est disposé à se sacrifier pour la soutenir.
+
+Un esprit révolutionnaire est un esprit propre à produire, à diriger une révolution faite en faveur de la liberté.
+
+Une loi révolutionnaire est une loi qui a pour objet de maintenir cette révolution, et d'en accélérer ou régler la marche.
+
+Une mesure révolutionnaire est celle qui peut en assurer le succès.
+
+On entend alors que ces lois, ces mesures, ne sont pas du nombre de celles qui conviennent à une société paisible ; mais que le caractère qui les distingue, est d'être propres seulement à un temps de révolution, quoique inutiles ou injustes dans un autre."
+
+**Référence complète :** Nicolas <span style="font-variant: small-caps;">de Condorcet</span>, *Sur le sens du mot révolutionnaire*, Paris, Firmin Didot, 1847 [1e éd. 1793].
+
+

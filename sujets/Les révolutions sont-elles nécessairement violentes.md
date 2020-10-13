@@ -18,13 +18,21 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   * B - Les révolutions ont une part nécessairement politique et constituent bien souvent des épisodes historiques violents
   
-  H. Arendt : "les révolutions et les guerres sont inconcevables sans violence : ce simple fait suffit à les distinguer de tous les autres phénomènes politiques" (De la révolution, 1963)
+  Selon elle, la guerre comme les révolutions s'appuient sur une justification de la violence (H. Arendt s'interroge, en amont, de l'existence même d'une guerre juste, d'une violence juste)
   
   Révolution française s'est faite dans la violence : prise des armes des citoyens, conscription (dans un contexte de guerre également), mais également inscription dans les principes qui fondent cette nouvelle république, l'idée du droit de résister à l'oppression (y compris par la violence) dans la Constitution de l'an III
   
   C'est le cas également des premières révolutions politiques de l'époque moderne (Etats-Unis et la guerre d'indépendance qui l'accompagne, les américains prennent les armes contre la couronne anglaise) et plus largement de toutes les révolutions qui vont émailler l'histoire du XIXe siècle en Europe autour de la construction des Etats-nations modernes (France, Italie, Allemagne)
   
   David Dufresne, "Un peuple qui se tient sage" : film sur les violences policières et le moment des "Gilets jaunes" en France, évoque la part des répressions qui coexiste presque nécessaire avec chaque moment révolutionnaire (le film pose d'ailleurs, à un bref moment, la question du caractère révolutionnaire ou non de l'épisoe des "Gilets jaunes" : la comparaison avec les épisodes de 1789-1975 ou de 1848 laisse clairement apparaître que le niveau de violence est bien plus bas durant l'épisode des "Gilets jaunes", les manifestants ne sont pas armés, par exemple, contrairement à 1789 et 1848 qui a vu le peuple en armes)
+  
+  * C - Les révolutions s'appuient sur une justification de la violence
+  
+  H. Arendt : "les révolutions et les guerres sont inconcevables sans violence : ce simple fait suffit à les distinguer de tous les autres phénomènes politiques. Il serait difficilede nier que l'une des raisons pour lesquelles les guerres ont tourné si aisément en révolutions, et les révolutions ont manifesté une funeste tendance à déclencher des guerres tient à ce que la violence leur est à toutes les deux une sorte de commun dénominateur." (De la révolution, 1963)
+  
+  F. Fanon, *Les damnés de la terre* : colonisation est une forme de violence par l'exploitation et les formes de domination associées (dont la domination raciste en particulier), les colonisés ont le droit et même le devoir d'employer la violence pour se libérer. Selon lui, l'étape de l'usage de la violence par les colonisés est un point de passage obligé pour obtenir l'indépendance
+  
+  Ce n'est pas tant la violence en soi qui est en question que le camp qui l'utilise : les colonisés utilisent la violence pour se libérer alors que la violence des colonisateurs est un outil pour bâtir des empires
 
 * **II - Néanmoins, cette violence de la situation n'implique pas nécessairement une violence en acte**
   
@@ -54,7 +62,7 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   * A - Révolution signifie précisément qui tourne et revient régulièrement au même point
   
-  C'est une des idées principale de la philosophie de l'histoire d'Hegel : histoire est cyclique et se répète
+  C'est une des idées principale des philosophies antiques : histoire est cyclique et se répète
   
   Pour Karl Marx, il voit dans la lutte des classes le moteur de l'histoire : la même idée cyclique est présente, mais si ce n'est qu'une succession des mêmes circonstances, des mêmes dynamiques, est-ce qu'il y a quelque chose de vraiment révolutionnaire ?
   
