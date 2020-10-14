@@ -4,7 +4,7 @@
 
 > "Je commençai à écrire l'*Essai* en 1794, et il parut en 1797. Souvent il fallait effacer la nuit le tableau que j'avais esquissé le jour : les événements couraient plus vite que ma plume ; il survenait une révolution qui mettait toutes mes comparaisons en défaut : j'écrivais sur un vaisseau pendant une tempête, et je prétendais peindre comme des objets fixes, les rives fugitives qui passaient et s'abîmaient le long du bord."
 
-Les révolutions peuvent donc apparaître comme des violences intimes, ressenties profondément, dans l'expérience du monde et du temps. Terme polysémique, la violence (du latin *vis* qui désigne la vigueur, la force), renvoie à l'idée d'une force non contenue, qui s'exprime presque à plein. Sous des termes politiques, on peut davantage la voir comme un instrument servant à imposer des dispositions particulières : Max Weber parle ainsi de l'Etat comme seul détenant de l'usage de la "violence légitime".
+Les révolutions peuvent donc apparaître comme des violences intimes, ressenties profondément, dans l'expérience du monde et du temps. Terme polysémique, la violence (du latin *vis* qui désigne la vigueur, la force), renvoie à l'idée d'une force non contenue, qui s'exprime presque à plein. Sous des termes politiques, on peut davantage la voir comme un instrument servant à imposer des dispositions particulières : Max Weber parle ainsi de l'Etat comme seul détenant de l'usage de la "violence légitime". Il nous faudra donc articuler le caractère polysémique du terme "révolution" à celui, tout autant mouvant de "violence", en commençant tout d'abord par le constater ici.
 
 * **I - Les révolutions sont, par essence même, violentes**
   
@@ -36,7 +36,7 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
 
 * **II - Néanmoins, cette violence de la situation n'implique pas nécessairement une violence en acte**
   
-  * A - Les révolutions ne sont pas seulement faites de violences
+  * A - Les révolutions ne sont pas seulement faites de violences, celle-ci est seulement un moyen qui n'est pas nécessairement utile
   
   1848 : les appréciations et jugements dépendent du point de vue des acteurs qui relatent les faits, mais il apparaît, comme dans le cas de la constitution de la Commission du Luxembourg, que des rapports pacifiés existent également, parfois à la suite de journées violentes (début Mars 1848, à la suite de la fin du mois de Février 1848 qui a connu des épisodes violents)
   
@@ -52,24 +52,46 @@ Les révolutions peuvent donc apparaître comme des violences intimes, ressentie
   
   Années 1960 et 1970 et la contre-culture américaine notamment : moment anti-militariste, pacifiste dans le contexte de la Guerre du Vietnam (on retrouve dans ce même contexte l'idée de désobéissance civile et de résistance passive prônée par Martin Luther King dans le cadre du mouvement des droits civiques des noirs américains)
   
-  * C - Les révolutions constituent, avant tout, un constat, une appréciation d'une situation et peuvent ainsi être avant tout des éléments discursifs et programmatiques
+  * C - Les révolutions constituent, avant tout, un constat, une appréciation d'une situation et peuvent ainsi être avant tout des éléments discursifs et programmatiques au même titre que la violence qui est, avant tout, "le terrain de l'élection des jugements de valeurs" (P. Braud)
+  
+  P. Braud : appréciation de la violence d'actes ou d'une situation est d'abord un jugement de valeur, une question morale (est-ce que l'attitude passive des alliés face à la montée du nazisme dans les années 1930 est une forme de violence ?), en ce sens, elle est fondamentalement liée à la question de la légitimité (et rejoint en ce sens le caractère révolutionnaire ou non d'un événement qui dépend toujours d'une lecture, dans le contexte ou a posteriori, des volontés des acteurs qui la conduisent)
   
   L'emballement médiatique autour de ce qui peut apparaître de prime abord comme neuf s'accompagne souvent d'une surenchère, voyant des "révolutions" à tout va : on peut simplement constater l'usage du mot qui forge des expressions comme "révolution numérique", "révolution sexuelle", "révolution culturelle", etc.
   
   E. Macron et son ouvrage "Révolution", on voit que sa politique s'inscrit pourtant dans la continuité de ses prédécesseurs plus qu'elle ne représente une rupture : le livre est sorti pour accompagner la campagne et l'on voit bien la façon dont le terme peut être utilisé de façon purement rhétorique, comme véhiculant un imaginaire, celui du changement, de la nouveauté et n'apporter concrètement aucune rupture violente
 
-* **III - Si les révolutions doivent être cycliques, comme le décrivent certains théoriciens, restent-elles vraiment révolutionnaires ?**
+* **III - Si les révolutions doivent être cycliques, si on en revient au sens "astronomique" premier du terme, conservent-elles alors leur caractère violent qui émane d'abord du surgissement de l'événement ?**
   
-  * A - Révolution signifie précisément qui tourne et revient régulièrement au même point
+  * A - Les révolutions vues comme des surgissements cycliques ne veulent pas dire que la place de l'événement et de sa violence ne l'accompagne pas
   
   C'est une des idées principale des philosophies antiques : histoire est cyclique et se répète
   
   Pour Karl Marx, il voit dans la lutte des classes le moteur de l'histoire : la même idée cyclique est présente, mais si ce n'est qu'une succession des mêmes circonstances, des mêmes dynamiques, est-ce qu'il y a quelque chose de vraiment révolutionnaire ?
   
-  * B - Pourtant, c'est le sens même du terme révolution en astronomie
+  Ce n'est pas parce que la lutte des classes comme moteur de l'histoire a une forme de logique cyclique (mêmes causes, mêmes effets) qu'elle en perd pour autant son caractère violent : l'histoire des XIXe et XXe siècle, appréhendée à travers la théorie marxiste, est émaillée de violences (l'objectif est aussi de donner un sens et de théoriser les violences révolutionnaires qu'observe Karl Marx)
   
-  Les événements se répètent de la même façon, de la même manière que Copernic l'a décrit dans ses observations des astres
+  * B - Dans le sens "astronomique" du terme, il évoque pourtant davantage le caractère paisible et réglé du mouvement prévisible des astres
+  
+  Les événements se répètent de la même façon, de la même manière que Copernic l'a décrit dans ses observations des astres : aspect paisible, prévisible et calculable du mouvement des planètes (plus tard travaux de Galilée puis d'A. Einstein qui s'oppose notamment à la vision probabiliste qui sous-tend la physique quantique : "Dieu ne joue pas aux dés", le monde physique est réglé et fondamentalement prédictible)
   
   On voit poindre une forme de contradiction entre les usages différenciés du terme qui, certes, initialement, renvoie davantage à l'astronomie qu'au politique car, les révolutions politiques ont constitué chaque fois des moments uniques de l'histoire, des événements, brutaux qui ont constitué des ruptures importantes (on revient là à l'expérience de Chateaubriand commentant "à chaud" ce dont il est témoin)
   
-  Si on suit Marx, cette contradiction est pourtant motrice de l'histoire : les événements révolutionnaires se succèdent et ils font avancer l'évolution des société
+  Si on suit Marx, cette contradiction est pourtant motrice de l'histoire : les événements révolutionnaires se succèdent et ils font avancer l'évolution des sociétés modernes
+  
+  Pour Hannah Arendt, la contradiction est liée au caractère historique de l'événement pensé comme tel, dans son contexte de surgissement, par les révolutionnaires : ce basculement de sens fonde aussi l'émergence d'un nouveau langage politique, signe que le sens "astronomique" du terme est largement redéfini et réapproprié par les révolutionnaires (du réglé et paisible, il vient à exprimer la rupture et une forme de justification de la violence, comme l'exprime H. Arendt)
+  
+  * C - La révolution est d'abord un mouvement inexorable, mû par la "nécessité" : il pose la question de la légitimité de la violence et de la domination
+  
+  Hannah Arent, en réfléchissant au sens du mot "révolution" et à la façon dont il a pu se transformer dans la pensée moderne, à la suite des épisodes révolutionnaires américain et français, note qu'il y a un point commun entre son sens "astronomique" et son sens "politique" qui est celui de la "nécessité", du caractère "inexorable" de la révolution : les observateurs contemporains des événements de la Révolution française ont beaucoup insisté sur la façon dont les événements adviennent comme par "nécessité" (Camille Desmoulins parle du "torrent révolutionnaire" que rien ne peut arrêter)
+  
+  Comme elles posent la question du gouvernement et de la politique dans le sens de l'orientation des actions de l'Etat, elles interrogent la légitimité de la violence dont il est porteur : l'Ancien Régime a maintenu l'oppression et la domination sur le tiers état (Siéyès : "Qu'est-ce que le tiers état ?", Qu'est-ce que le tiers état ? Tout. Qu'a-t-il été jusqu'à présent dans l'ordre politique ? Rien. Que demande-t-il ? A y devenir quelque chose.), la violence légitime est celle des révolutionnaires qui veulent s'abstraire de la violence tyrannique de la monarchie absolue
+  
+  M. Weber : Etat comme détenteur du monopole de la violence légitime (pose d'abord la question de la légitimité qui intéresse M. Weber par ailleurs, notamment autour de son découpage "idéal-typique" : légitimité traditionnelle, charisme du chef, légimité des règles)
+  
+  C'est notamment de ce fait que les révolutionnaires de l'époque ont pu penser ces événements comme chemin universel et comme mouvement de libération qui concerne non pas un peuple, une nation, mais le genre humain (c'est ce que l'on retrouve dans la Déclaration des droits de l'homme mais aussi dans la Constitution américaine) : Hannah Arendt parle d'une forme d'"enorgueillissement" qui a touché les révolutionnaires pensant que la révolution concernait tous les hommes et était appelée à se diffuser (c'est l'héritage des idées de Lumières et de l'université des principes posés par la Révolution française qui motive notamment cette diffusion de la révolution aux autres nations européens et s'inscrit dès lors dans les guerres révolutionnaires)
+  
+  **Conclusion :**
+  
+  "Le vol de l'histoire", on peut voir ici un lien avec le propos de certains, comme Jack Goody qui ont parlé d'un "vol de l'histoire", montrant que la façon d'écrire l'histoire s'apparente a un vol de certains acteurs (nations occidentales) qui ont imposé leur récit de l'histoire au reste du monde ; on peut voir là l'idée de "révolution comme nécessité", comme une forme de violence en retour une fois analysée a posteriori, au regard de l'histoire des XIXe et XXe siècle, qu'il ne faudrait néanmoins pas imputer comme volonté aux acteurs des révolutions américaine et française dans leur contexte contemporain
+
+
