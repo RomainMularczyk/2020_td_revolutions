@@ -4,19 +4,29 @@
 
 ### Définitions
 
-Une "révolution" est un événement historique durant lequel a lieu un changement de situation abrupte d'un champ politique, artistique, scientifique, qui entraîne une réorganisation complète de ce champ, tel qu'aucun retour en arrière n'est ensuite possible.
+Une "révolution" est un événement historique durant lequel a lieu un changement brutal. La notion d'événement est importante car une révolution s'apparente à une forme d'irruption dans l'histoire qui marque une rupture de telle sorte que se dessine un "avant" et un "après" qui rend difficilement imaginable ou possible tout retour en arrière.
 
-On parle de "révolution politique" pour désigner des changements de société tel qu'aucun retour en arrière n'est possible. C'est le cas de la Révolution française qui renverse l'Ancien régime ou de la Révolution américaine qui renverse le pouvoir colonial anglais.
+Cela suppose l'émergence d'un ordre nouveau dans le sens où la révolution conduit à une forme de stabilité nouvelle. On peut distinguer ici l'idée d'"évolution" et celle de "révolution" qui implique une notion sous-jacente de temporalité : l'"évolution" concernerait des transformations sur le long cours, qui peuvent échapper à l'appréciation des contemporains, alors que la "révolution" est, a priori, plus facile à appréhender du fait de la brutalité de l'événement qu'elle suppose. Dans tous les cas, il est nécessaire de s'intéresser au contexte historique pour comprendre, au moins dans un premier temps, s'il y a rupture, continuité ou transformation progressive.
 
-Une révolution constitue la réorganisation, la reconstruction d'un nouvel ordre : en ce sens, elle est appelée à se stabiliser dans un ordre nouveau. C'est ce nouvel ordre qu'il faut scruter pour juger du caractère révolutionnaire ou non de cette nouvelle période.
+#### Une question politique ?
 
-**Questions :**
+On parle de "révolution politique" pour désigner des changements de société tel qu'aucun retour en arrière n'est possible. C'est le cas de la Révolution française qui renverse l'Ancien régime ou de la Révolution américaine qui renverse le pouvoir colonial anglais qui apparaissent toutes deux alors comme des formes de modèles (pour les acteurs politiques du XIXe siècle et des siècles qui suivent, mais également pour les historiens et politistes qui les ont relu a posteriori).
 
-* Ontologiques : existe-t-il des révolutions ?
+Une révolution constitue la réorganisation, la construction d'un nouvel ordre. C'est ce nouvel ordre qu'il faut scruter pour estimer si elle est, précisément, vraiment "révolutionnaire", si elle instaure une nouveauté, quelque chose d'inédit ou, plus exactement, quelque chose qui fait rupture et se distingue clairement d'un "avant".
 
-* Epistémologiques et historiographiques : a quoi reconnaît-on une révolution ?
+#### Une question astronomique ?
 
-* Axiologiques : sont-elles désirables ou non ? Apportent-elles un progrès, sont-elles légitimes ?
+La difficulté du sujet tient dans le fait qu'il ne s'agit pas de se limiter à cette définition "politique" du terme "révolution", mais d'inclure également le sens originel du mot qui provient de l'astronomie. Il y désigne le mouvement cyclique et périodique des astres qui, de façon récurrente, reviennent toujours au même point ou, du moins, parcourent toujours la même trajectoire en tournant autour d'un axe.
+
+Hannah Arendt ajoute à cela, en étudiant les enjeux philosophiques et politiques qui émergent autour du terme "révolution" à l'époque moderne, qu'il faut également voir dans la définition "astronomique" du terme de "révolution" le fait qu'elle est inexorable, c'est-à-dire, qu'elle est certaine, donc prévisible. La révolution est donc ce qui est dicté aussi par la nécessité, dans le cas de l'astronomie, par les lois de la nature.
+
+#### Une question historique ?
+
+Parce que les révolutions politiques naissent d'événements particuliers, elles constituent les points clés, les moments déterminants de l'histoire des sociétés qu'elles ont animé ou animent encore. Si les révolutionnaires français étaient bien conscients de conduire la révolution, d'en être les acteurs historiques, ils n'ont peut-être pas anticipé la façon dont leurs actes allaient être relus, repensés sous toutes leurs coutures. L'historiographie (c'est-à-dire l'histoire des façons dont on a étudié un objet, dans notre cas donc, la Révolution française) de la Révolution française révèle bien qu'elle constitue un enjeu politique encore très vivant, ce qui invite d'ailleurs de façon récurrente à se demander si la Révolution française est véritablement achevée ?
+
+Réfléchir aux révolutions, qu'elles soient politiques, techniques, artistiques, scientifiques, nécessite de tenir compte des différentes perspectives que l'on peut adopter pour les lire et les penser. Sur le temps court, on peut ainsi se demander si les acteurs des révolutions en cours ont conscience d'en conduire une ? Sur le temps long, on peut constater la façon dont, à la relecture des événements, les héritiers et successeurs des épisodes révolutionnaires ont réévalué la place et la portée des événements révolutionnaires : les contemporains n'ont peut-être pas eu pleinement conscience de ce qu'ils étaient en train de réaliser ? Ils ont peut-être, au contraire, surestimé leurs actions ?
+
+Comme ces relectures sont toujours orientées par une posture particulière (politique, scientifique, etc.) mais aussi un angle, une perspective, une façon particulière de les aborder (en se replaçant dans le contexte de l'époque, en observant en tant que contemporain ce que l'on peut estimer comme des legs, des héritages ou des conséquences d'une révolution passée ou en cours, etc.), elles ne sont jamais vraiment neutres et font toujours l'objet de débats et de relectures à leur tour. Ainsi, l'histoire des relectures des révolutions devient elle aussi l'objet d'une histoire et d'une attention particulière, qui peut s'intéresser en particulier à la "mémoire des révolutions" : par exemple, que reste-t-il de la Révolution française ? La commémore-t-on encore ? Est-ce que certains acteurs politiques ou militants entretiennent sa mémoire ? La Révolution française fait partie des objets mémoriels et historiques qui ont ainsi fait l'objet de très nombreuses relectures et interprétations a posteriori, signe que cette histoire même conserve un enjeu politique, culturel, identitaire et scientifique très fort encore aujourd'hui.
 
 ---
 
@@ -36,56 +46,18 @@ Chateaubriand, "né en 1768, [...] a grandi en une période de crise intense et 
 
 **Révolution comme discours d'appartenance et d'identification :**
 
-Comme la révolution sépare fondamentalement un avant et un après, elle constitue aussi une forme de discours qui permet d'entériner ou de mettre en avant l'idée d'une rupture qui peut être plus ou moins marquée. La "révolution" est alors un marqueur d'appartenance qui permet, selon la connotation assez et le discours qui l'accompagne, de faire apparaître ses accomplissements ou ses méfaits comme alternativement souhaites ou non, positifs ou négatifs. Parler de "révolution" revient souvent à déployer un discours politique qui porte un jugement sur un objet donné : si elle est habituellement plutôt connotée positivement (idée de nouveauté, de "dépoussiérage", de redémarrage ou de bond en avant), il s'agit également de prêter attention au contexte dans lequel le terme est employé qui peut lui donner une toute autre signification. Ainsi, le terme en vient à souvent être utilisé pour faire la promotion de ses propres idées (marketing, communication politique, etc.) : ainsi, le terme n'est pas seulement descriptif, mais bien prescriptif. Il s'agirait ainsi d'une catégorie militante et opératoire, qui vise à mettre des groupes sociaux et humaines en action autour d'un horizon spécifique : cela s'applique ainsi en matière politique bien sûr, mais également pour ce qui concerne les arts, la technologie ou les sciences. Cette image positive peut également être discutée car elle tient en bonne part du fait de l'héritage romantique européen du XIXe siècle et, en particulier, de l'épisode révolutionnaire français à partir de 1789.
-
----
-
-## Aspects thématiques
-
-### Révolutions politiques
-
-#### La Révolution française, son analyse rétrospective, son historiographie
-
-**Georges Clémeanceau, "La révolution est un bloc" :** Pour restituer le contexte, cet épisode resté célèbre de la vie politique de la IIIe République s'ouvre le 24 Janvier 1891, date à laquelle se joue à la Comédie française, la première de la pièce de théâtre *Thermidor* du dramaturge Victorien Sardou. Son auteur y livre une interprétation très négative de la place de la Convention et de Maximilien Robespierre dans la Révolution française durant cet épisode de la Terreur, se rangeant du côté de Georges Danton et de Camille Desmoulins en les opposants à la figure de Maximilien Robespierre dépeint en tyran. La Comédie française est une salle subventionnée par l'Etat et la seconde représentation donne lieu à un scandale qui éclate durant son déroulé même, certains spectateurs s'opposant à l'interprétation donnée par Victorien Sardou à cet épisode historique. Georges Clémenceau, le 27 Janvier 1891, décide de mettre fin aux représentations de cette pièce, jugeant qu'il y avait là une question d'ordre public. Le 29 Janvier 1891, des républicains modérés prennent la parole à la Chambre des députés pour défendre la liberté d'expression mais également pour confirmer cette interprétation historique, en prenant la défense de Georges Danton contre Maximilien Robespierre.
-
-**Les causes de la Révolution française :** Dans les première années de la Révolution française, les observateurs de l'époque se sont notamment interrogé sur la question de ses "causes". La société française du XVIIIe siècle s'appuie sur une inégalité entre les sujets du roi, fondée sur la notion de "privilège" qui structure leur répartition entre trois ordres (noblesse, clergé, tiers-état). Ces inégalités portent en particulier sur la question de l'impôt dont sont exemptés les deux premiers ordres (d'où les multiples représentations, sous forme de caricature, de paysans écrasés par le fardeau de la dette nationale et des impôts en tout genre). Cependant, il ne faudrait pas négliger les différences qui existent au sein des ordres entre eux : les historiens ont notamment mis l'accent sur les différences entre le haut et le bas clergé.
-
-**Le débat historiographique Aulard-Mathiez :** Alphonse Aulard, au début du XXe siècle, s'est imposé comme l'historien de référence sur la Révolution française. Il est alors éditeur de la revue de référence sur la question, *La Révolution française*. Albert Mathiez, élève d'Alphone Aulard, vient à rompre avec son maître, acte particulièrement matérialisé, en 1907, par la création de la revue *Annales historiques de la Révolution française* et la création de la "Société des études robespierristes" à laquelle est rattachée la revue. Selon James Friguglietti, cette rupture entre les deux historiens reflète la lutte entre Danton et Robespierre pendant la Révolution. On peut distinguer trois étapes dans cette querelle :
-
-* 1900-1907 : proximité entre Alphonse Aulard et Albert Mathiez, travail commun sur l'étude de la Révolution
-
-* 1907-1908 : première brèche, d'abord silencieuse
-
-* 1909-1910 : division permanente et devenue de notoriété publique
-
-L'utilisation de la salle de classe, de sa société et de sa revue par les "deux camps" ont constitué les outils pour faire promouvoir, chacun de son côté son propre héros de la Révolution : pour Albert Mathiez, Maximilien Robespierre, pour Alphonse Aulard, Georges Danton. Cette controverse a entraîné la division du champ universitaire intéressé par la Révolution française pendant une génération entière. A partir de 1904, Albert Mathiez rattache progressivement son travail aux idées socialistes et forge une préférence pour Maximilien Robespierre, " le plus social des révolutionnaires". Le différend entre Alphonse Aulard et Albert Mathiez émerge à partir d'un cours que le premier prépare à la Sorbonne en 1905, intitulé "Taine historien de la France contemporaine" : il sera publié dans la revue *La Révolution française*, donnant lieu, sous la forme de plusieurs articles, à plus de 300 pages de réfutation totale du livre d'Hippolyte Taine, *Les origines de la France contemporaine*. Au même moment, Albert Mathiez donne une conférence sur Hippolyte Taine à l'Ecole des hautes études sociales, où il défend une toute autre lecture de son oeuvre. Pour Albert Mathiez, Hippolyte Taine n'apparaît pas tant comme historien que comme philosophe à travers cet ouvrage : la question qu'il pose est plus pratique, cherchant à se demander quel est le mode de gouvernement le plus adapté à la France, le tout, en parcourant son histoire. Cela ne l'empêchait pas de se montrer très critique, en avançant le fait que la méthode d'Hippolyte Taine est anti-scientifique, posant *a priori*, une théorie et cherchant d'abord des lois générales de l'histoire, parcourant les faits pour tenter d'y trouver confirmation.
-
-### Révolutions technologiques
-
-**Joseph Schumpeter :** C'est à partir de ses réflexions engagées dans le cadre de sa thèse de doctorat qu'il développe les deux idées essentielles pour lesquelles on retient habituellement son travail : celle de la place et du rôle de l'**entrepreneur** dans l'économie, associé au processus de **destruction créatrice**.
+Comme la révolution sépare fondamentalement un avant et un après, elle constitue aussi une forme de discours qui permet d'entériner ou de mettre en avant l'idée d'une rupture qui peut être plus ou moins marquée. La "révolution" est alors un marqueur d'appartenance qui permet, selon la connotation associée au contexte dans lequel le terme est mobilisé et le discours qui l'accompagne, de faire apparaître ses accomplissements ou ses méfaits comme alternativement souhaitables ou non, positifs ou négatifs. Parler de "révolution" revient souvent à déployer un discours politique, militant qui porte un jugement sur un objet donné : si elle est habituellement plutôt connotée positivement (idée de nouveauté, de redémarrage ou de bond en avant), il s'agit également de prêter attention au contexte dans lequel le terme est employé qui peut lui donner une toute autre signification. Ainsi, il en vient à souvent être utilisé pour faire la promotion de ses propres idées (marketing, communication politique, etc.) : ainsi, le terme n'est pas seulement descriptif, mais prescriptif. Il s'agirait ainsi d'une catégorie qui se veut opératoire, qui vise à mettre des groupes sociaux et humains en action autour d'un horizon spécifique : cela s'applique ainsi en matière politique bien sûr, mais également pour ce qui concerne les arts, la technique ou les sciences. Cette image positive peut également être discutée car elle tient en bonne part du fait de l'héritage romantique européen du XIXe siècle et, en particulier, de l'épisode révolutionnaire français à partir de 1789.
 
 ---
 
 ## Sujets
 
-### Thématiques
-
-* **Peut-on parler de révolution numérique ?**
-
-* **Assiste-t-on aujourd'hui à une révolution numérique ?**
-
-### Conceptuels
-
 * **Une révolution est-elle nécessairement brutale ?**
 
-* **Une révolution est-elle nécessairement violente ?**
+* **Les révolutions sont-elles nécessairement violente ?**
 
-### Epistémologiques
-
-* **Quand y a-t-il révolution ?**
+* **Les révolutions apportent-elles un progrès ?**
 
 * **Les révolutions sont-elles vraiment révolutionnaires ?**
 
-### Axiologiques
-
-* 
+* **Assiste-t-on aujourd'hui à une révolution numérique ?**

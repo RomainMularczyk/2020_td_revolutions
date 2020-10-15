@@ -37,5 +37,3 @@ Une deuxième phase de la controverse s'ouvre en 1971, avec la parution de l'art
 Au milieu des années 1970, le contexte historiographique plus général changeant, l'interprétation de la "révolution bourgeoise" paraît quelque peu dépassée, alors que les nouveaux travaux de recherche s'intéressent davantage aux aspects culturels et aux éléments de culture politique propres au contexte révolutionnaire. La parution de l'ouvrage de François Furet et Denis Richet annonçait-elle le passage d'un régime historiographique à un autre ("du tout social au tout politique", pour Michel Vovelle) ? Pour Julien Louvrier, on peut effectivement lire cette controverse comme le produit d'une transition difficile entre deux moments historiographiques, le premier marqué par une nette domination de l'analyse socio-économique et un second, plus marqué par l'autonomie du politique et du culturel. A partir des années 1980, de nouveaux objets émergent, s'intéressant notamment aux cultures politiques du moment révolutionnaire, soulignant presque systématiquement le thème de "l'apprentissage de la politique".
 
 ## Révolution industrielle
-
-
