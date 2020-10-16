@@ -15,6 +15,7 @@
 | Petrograd en Février 1917 | https://fr.wikipedia.org/wiki/R%C3%A9volution_de_F%C3%A9vrier          |         |
 | Printemps 1968            | https://fr.wikipedia.org/wiki/Mouvements_sociaux_de_1968_dans_le_monde |         |
 | Bataille de Karameh       | https://fr.wikipedia.org/wiki/Bataille_de_Karameh                      |         |
+| Plan Rodgers              | https://en.wikipedia.org/wiki/Rogers_Plan                              |         |
 
 ## Acteurs :
 
@@ -37,6 +38,7 @@
 | Gamal Abdel Nasser  | https://fr.wikipedia.org/wiki/Gamal_Abdel_Nasser            |         |
 | Yasser Arafat       | https://fr.wikipedia.org/wiki/Yasser_Arafat                 |         |
 | Georges Habache     | https://fr.wikipedia.org/wiki/Georges_Habache               |         |
+| Leïla Khaled        | https://fr.wikipedia.org/wiki/Le%C3%AFla_Khaled             |         |
 
 ### Organisations :
 
@@ -51,6 +53,7 @@
 | Saïqa                                                                 | https://fr.wikipedia.org/wiki/As-Saiqa                                                        |         |
 | Organisation de libération de la Palestine (OLP)                      | https://fr.wikipedia.org/wiki/Organisation_de_lib%C3%A9ration_de_la_Palestine                 |         |
 | Ligue arabe                                                           | https://fr.wikipedia.org/wiki/Ligue_arabe                                                     |         |
+| Septembre Noir                                                        | https://fr.wikipedia.org/wiki/Septembre_noir_(organisation)                                   |         |
 
 ## Géographie :
 
