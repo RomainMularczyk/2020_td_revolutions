@@ -56,4 +56,4 @@ Il y a des temps où les hommes sont si différents les uns des autres que l'id�
 
 Le plus extraordinaire n'est pas que la révolution française ait employé les procédés qu'on lui a vu mettre en oeuvre et conçu les idées qu'elle a produites : la grande nouveauté est que tant de peuples fussent arrivés à ce point que de tels procédés pussent être efficacement employés et de telles maximes facilement admises."
 
-**Référence complète :** Alexis de Tocqueville, *L'Ancien Régime et la Révolution*, Paris, Gallimard, 1985, [1e éd. 1856], p. 60.
+**Référence complète :** Alexis de Tocqueville, *L'Ancien Régime et la Révolution*, Paris, Gallimard, 1985, [1e éd. 1856], p. 68-72.
