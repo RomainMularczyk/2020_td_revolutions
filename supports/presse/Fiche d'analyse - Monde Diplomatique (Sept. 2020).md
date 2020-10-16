@@ -55,16 +55,6 @@
 | Ligue arabe                                                           | https://fr.wikipedia.org/wiki/Ligue_arabe                                                     |         |
 | Septembre Noir                                                        | https://fr.wikipedia.org/wiki/Septembre_noir_(organisation)                                   |         |
 
-## Géographie :
-
-| Géographie  | Lien Wikipedia | Inscrit |
-| ----------- | -------------- | ------- |
-| Palestine   |                |         |
-| Cisjordanie |                |         |
-| La Havane   |                |         |
-| Alger       |                |         |
-| Hanoï       |                |         |
-
 ## Vocabulaire :
 
 | Vocabulaire | Lien Wikipedia                                | Inscrit |
