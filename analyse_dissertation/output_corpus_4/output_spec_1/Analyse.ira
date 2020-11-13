@@ -1,0 +1,14 @@
+[spec]
+uuid = 5cb2970a-338e-4de3-854c-30a61880533b
+indice = hypergeo
+pathout = E:\Documents\Productions\Cours\TD_Revolutions\analyse_dissertation\output_corpus_4\output_spec_1
+clnb = 21
+encoding = cp1252
+mineff = 10
+lem = 1
+time = 0h 0m 3s
+typeformes = 0
+ira = E:\Documents\Productions\Cours\TD_Revolutions\analyse_dissertation\output_corpus_4\output_spec_1\Analyse.ira
+corpus = 3d67a0ed-a23b-4b72-bd78-a317e21c5664
+type = spec
+name = output_spec_1
