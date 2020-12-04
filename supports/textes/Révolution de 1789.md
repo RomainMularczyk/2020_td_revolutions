@@ -57,3 +57,9 @@ Il y a des temps où les hommes sont si différents les uns des autres que l'id�
 Le plus extraordinaire n'est pas que la révolution française ait employé les procédés qu'on lui a vu mettre en oeuvre et conçu les idées qu'elle a produites : la grande nouveauté est que tant de peuples fussent arrivés à ce point que de tels procédés pussent être efficacement employés et de telles maximes facilement admises."
 
 **Référence complète :** Alexis de Tocqueville, *L'Ancien Régime et la Révolution*, Paris, Gallimard, 1985, [1e éd. 1856], p. 68-72.
+
+---
+
+## Joseph Delaunay d'Angers, Extrait de discours à l'Assemblée législative, 30 Juin 1792 :
+
+"La révolution n'est pas faite ; et quand nos prédécesseurs, en nous remettant le dépôt sacré de la constitution, ont dit que la révolution était achevée, sans doute ils le désiraient ; mais, quelque immense que fût leur pouvoir, ils n'avaient pas celui de commander aux passions."

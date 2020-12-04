@@ -90,8 +90,6 @@ Si certains historiens ont pu voir dans le tournant de 1792 un "dérapage" de la
 
 Sans-culotte et montagnards à partir de 1792 : limitation de la liberté politique et économique sont nécessaires dans le contexte de guerre (intérieure et extérieure, du point de vue des révolutionnaires)
 
-
-
 L'idée de défendre la Révolution permet alors d'éliminer des ennemis politiques : les Girondins, les fédéralistes, les vendéens, les nobles émigrés, et les monarchies étrangères
 
 ### III - En construisant un récit spécifique, les révolutionnaires contribuent à écrire une histoire, certes militante, qui s'affirme néanmoins émancipatrice
