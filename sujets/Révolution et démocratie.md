@@ -1,3 +1,0 @@
-# Révolution et démocratie
-
-
